@@ -182,3 +182,20 @@ body {
 }
 
 .stat-val { color: #FFD700; font-size: 1.5rem; font-weight: 900; }
+.calc-select {
+    background: #f8f9fa;
+    border: 2px solid #eee;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.note-box {
+    font-size: 11px;
+    line-height: 1.4;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 15px;
+    text-align: left;
+    background: rgba(255,255,255,0.2);
+}
+
+/*tes STATS */
